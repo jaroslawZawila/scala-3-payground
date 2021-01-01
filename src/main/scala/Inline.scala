@@ -30,7 +30,7 @@ object Main:
     
 end Main
 
-@main def inline() = {
+@main def inline = {
   
   println(Main.factorial(2))
   
